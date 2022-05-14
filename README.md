@@ -57,9 +57,9 @@ Finally, we must make a final sum of all the values represented in each leaf of 
 # Steps Taken
 
 1. First, the libraries used in the development for this project were imported to the notebook:
-2. > - Pandas: For creation and visualization of DataFrames and also to save the final chart of accounts
-3. > - Numpy: For converting data to numpy array, making it easier to develop loops
-4. > - Os: To create an output directory where the final chart of accounts would be stored into 
+ > - Pandas: For creation and visualization of DataFrames and also to save the final chart of accounts
+ > - Numpy: For converting data to numpy array, making it easier to develop loops
+ > - Os: To create an output directory where the final chart of accounts would be stored into 
 
 2. After that, both the chart of accounts and general ledger excel files given as input are opened and displayer as dataframes
 3. The dataframes are conferted into numpy array in order to make the loops necessary to populate the chart of accounts with the general ledger data
